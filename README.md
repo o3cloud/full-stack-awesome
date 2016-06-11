@@ -63,16 +63,17 @@ A collection of awesome things regarding React ecosystem.
 - SoundRedux [https://github.com/andrewngu/sound-redux][33]
 - [A Simple Way to Route with Redux][34]
 - What is React? | React + Redux + Webpack  [youtube][35] 
-- 
 
 More about redux stuff …
-- Awesome Redux [https://github.com/xgrommx/awesome-redux][36]
-- 
+
+- Awesome Redux   
+	[https://github.com/xgrommx/awesome-redux][36]
+
 
 #### More
+
 Other stuff
-- [Transform Markdown files into a SPA website using React. ][37]
-- 
+-  [Transform Markdown files into a SPA website using React. ][37]
 
 ---- 
 ## Vue js
