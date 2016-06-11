@@ -8,6 +8,7 @@ Good good study , day day up ;-)
 ### Leaning 
 - Learn ES2015 (quick) [https://babeljs.io/docs/learn-es2015/][1]
 - ECMAScript 6入门 [http://es6.ruanyifeng.com][2]
+
 ### Resource
 - JavaScript Standard Style [http://standardjs.com][3]
 	- WebStorm/PhpStorm Configuration[https://github.com/feross/standard/blob/master/docs/webstorm.md][4]
@@ -46,10 +47,10 @@ Good good study , day day up ;-)
 A collection of awesome things regarding React ecosystem.
 
 #### More stuff
-
 - [Transform Markdown files into a SPA website using React. ][24]
----- 
+- 
 
+---- 
 ## Vue js
 
 ### Home
