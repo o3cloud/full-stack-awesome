@@ -13,7 +13,6 @@ Good good study , day day up ;-)
 	- WebStorm/PhpStorm Configuration[https://github.com/feross/standard/blob/master/docs/webstorm.md][4]
 - Babel-handbook CN [https://github.com/thejameskyle/babel-handbook/blob/master/translations/zh-Hans/user-handbook.md][5]
 - CNPM
-
 		npm install -g cnpm --registry=https://registry.npm.taobao.org
 
 ---- 
@@ -47,6 +46,7 @@ Good good study , day day up ;-)
 A collection of awesome things regarding React ecosystem.
 
 #### More stuff
+
 - [Transform Markdown files into a SPA website using React. ][24]
 ---- 
 
