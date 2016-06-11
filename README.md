@@ -16,10 +16,12 @@ Good good study , day day up ;-)
 - CNPM
 
 		npm install -g cnpm --registry=https://registry.npm.taobao.org
+
 ### Project/Libs
+
 Some interesting projects and libs
-- Falcor [http://netflix.github.io/falcor/][6]
-- 
+- Falcor  
+	[http://netflix.github.io/falcor/][6]
 
 ---- 
 ## React Js
