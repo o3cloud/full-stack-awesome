@@ -34,15 +34,15 @@ Some interesting projects and libs
 
 ### Home
 - Official  [https://facebook.github.io/react/][11]
-	- CN[http://reactjs.cn][12]
-- Redux 
-### Tutorial / Article
+- CN[http://reactjs.cn][12]
+
+### Tutorial / Articles
 - React 入门教程 [https://www.gitbook.com/book/hulufei/react-tutorial/details][13]
 - React 首次渲染原理分析 [http://purplebamboo.github.io/2015/09/15/reactjs\_source\_analyze\_part\_one/][14]
 - Full-Stack Redux Tutorial  [http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html][15]
 - [https://segmentfault.com/a/1190000004660632][16]
 
-### Extend Resource
+### Resource
 #### Ant Design
 - Home [http://ant.design][17]
 - [Ant-Tool 简介][18] 
@@ -81,17 +81,19 @@ More about redux stuff …
 	[https://github.com/xgrommx/awesome-redux][41]
 
 
-#### More
+#### More tools
 
 Other stuff
 -  [Transform Markdown files into a SPA website using React. ][42]
 
 ---- 
+
 ## Vue js
 
 #### Home
 - Official [http://vuejs.org][43]
 	- [中文][44]
+
 #### Tutorial
 
 - CN [http://vuejs.org.cn/guide/][45]
