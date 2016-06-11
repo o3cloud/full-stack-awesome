@@ -4,22 +4,29 @@
 Good good study , day day up ;-)
 
 ---- 
+## Code Style
+
+- Airbnb
+	- [JavaScript Style Guide][1]
+	- [React/JSX Style Guide][2] 
+		- CN  [Airbnb React/JSX 编码规范][3]
+- [JavaScript Standard Style ][4]
+	- WebStorm/PhpStorm Configuration[https://github.com/feross/standard/blob/master/docs/webstorm.md][5]
+
 ## ES6/ES7
 ### Leaning 
-- Learn ES2015 (quick) [https://babeljs.io/docs/learn-es2015/][1]
-- ECMAScript 6入门 [http://es6.ruanyifeng.com][2]
+- Learn ES2015 (quick) [https://babeljs.io/docs/learn-es2015/][6]
+- ECMAScript 6入门 [http://es6.ruanyifeng.com][7]
 - Generator in Javascript
-	- [The Definitive Guide to the JavaScript Generators][3]
-	- [The Basics Of ES6 Generators][4]
-	- [ES6 generators in depth][5]
+	- [The Definitive Guide to the JavaScript Generators][8]
+	- [The Basics Of ES6 Generators][9]
+	- [ES6 generators in depth][10]
 
 ### Resource
-- JavaScript Standard Style [http://standardjs.com][6]
-	- WebStorm/PhpStorm Configuration[https://github.com/feross/standard/blob/master/docs/webstorm.md][7]
-- Babel-handbook CN [https://github.com/thejameskyle/babel-handbook/blob/master/translations/zh-Hans/user-handbook.md][8]
+- Babel-handbook CN [https://github.com/thejameskyle/babel-handbook/blob/master/translations/zh-Hans/user-handbook.md][11]
 - CNPM  
 	`npm install -g cnpm --registry=https://registry.npm.taobao.org`
-- Webpack [http://webpack.github.io][9]  
+- Webpack [http://webpack.github.io][12]  
 	Module bunder
 
 
@@ -27,147 +34,150 @@ Good good study , day day up ;-)
 
 Some interesting projects and libs
 - Falcor  
-	[http://netflix.github.io/falcor/][10]
+	[http://netflix.github.io/falcor/][13]
 
 ---- 
 ## React Js
 
 ### Home
-- Official  [https://facebook.github.io/react/][11]
-- CN[http://reactjs.cn][12]
+- Official  [https://facebook.github.io/react/][14]
+- CN[http://reactjs.cn][15]
 
 ### Tutorial / Articles
-- React 入门教程 [https://www.gitbook.com/book/hulufei/react-tutorial/details][13]
-- React 首次渲染原理分析 [http://purplebamboo.github.io/2015/09/15/reactjs\_source\_analyze\_part\_one/][14]
-- Full-Stack Redux Tutorial  [http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html][15]
-- [https://segmentfault.com/a/1190000004660632][16]
+- React 入门教程 [https://www.gitbook.com/book/hulufei/react-tutorial/details][16]
+- React 首次渲染原理分析 [http://purplebamboo.github.io/2015/09/15/reactjs\_source\_analyze\_part\_one/][17]
+- Full-Stack Redux Tutorial  [http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html][18]
+- [https://segmentfault.com/a/1190000004660632][19]
 
 ### Resource
 #### Ant Design
-- Home [http://ant.design][17]
-- [Ant-Tool 简介][18] 
-- [Ant Design boilerplate generator][19]  [https://github.com/ant-design/antd-init][20]
-- [AntV 数据可视化规范][21]
-- [G2 一套图形语法][22] 
-- [Ant Motion 高效的动效设计解决方案][23]  
+- Home [http://ant.design][20]
+- [Ant-Tool 简介][21] 
+- [Ant Design boilerplate generator][22]  [https://github.com/ant-design/antd-init][23]
+- [AntV 数据可视化规范][24]
+- [G2 一套图形语法][25] 
+- [Ant Motion 高效的动效设计解决方案][26]  
 
 #### React Component packages
-- [Full list][24]
-	- [https://github.com/react-component][25]
-- UXCore UI (from Alibaba) [http://uxco.re][26]
+- [Full list][27]
+	- [https://github.com/react-component][28]
+- UXCore UI (from Alibaba) [http://uxco.re][29]
 
 #### Awesome React
 
-[A collection of awesome things regarding React ecosystem.][27]
+[A collection of awesome things regarding React ecosystem.][30]
 
 ####  Redux
-- Git [https://github.com/reactjs/redux][28]
-- Docs [http://redux.js.org/docs/introduction/index.html][29]
-	- Download offline docs  [https://github.com/paulkogel/redux-offline-docs][30]
-	- CN [http://cn.redux.js.org][31]
-- [React-redux][32] + [react-router-redux][33]
-- [Redux-falcor][34]
+- Git [https://github.com/reactjs/redux][31]
+- Docs [http://redux.js.org/docs/introduction/index.html][32]
+	- Download offline docs  [https://github.com/paulkogel/redux-offline-docs][33]
+	- CN [http://cn.redux.js.org][34]
+- [React-redux][35] + [react-router-redux][36]
+- [Redux-falcor][37]
 - Asynchronous Actions for Redux applications
-	- Docs [http://yelouafi.github.io/redux-saga/][35]
-	- Git [redux-saga][36]
-- Courses [https://egghead.io/courses/getting-started-with-redux][37]
-- SoundRedux [https://github.com/andrewngu/sound-redux][38]
-- [A Simple Way to Route with Redux][39]
-- What is React? | React + Redux + Webpack  [youtube][40] 
+	- Docs [http://yelouafi.github.io/redux-saga/][38]
+	- Git [redux-saga][39]
+- Courses [https://egghead.io/courses/getting-started-with-redux][40]
+- SoundRedux [https://github.com/andrewngu/sound-redux][41]
+- [A Simple Way to Route with Redux][42]
+- What is React? | React + Redux + Webpack  [youtube][43] 
 
 More about redux stuff …
 
 - Awesome Redux   
-	[https://github.com/xgrommx/awesome-redux][41]
+	[https://github.com/xgrommx/awesome-redux][44]
 
 
 #### More tools
 
 Other stuff
--  [Transform Markdown files into a SPA website using React. ][42]
+-  [Transform Markdown files into a SPA website using React. ][45]
 
 ---- 
 
 ## Vue js
 
 #### Home
-- Official [http://vuejs.org][43]
-	- [中文][44]
+- Official [http://vuejs.org][46]
+	- [中文][47]
 
 #### Tutorial
 
-- CN [http://vuejs.org.cn/guide/][45]
+- CN [http://vuejs.org.cn/guide/][48]
 
 #### Vux 
   
 WeUI components
-- Git [https://github.com/airyland/vux][46]
-- Demo [https://vux.li/][47]
-- 中文文档 [https://vuxjs.gitbooks.io/vux/content/][48]
+- Git [https://github.com/airyland/vux][49]
+- Demo [https://vux.li/][50]
+- 中文文档 [https://vuxjs.gitbooks.io/vux/content/][51]
 
 ####  Awesome vue 
 
-[A curated list of awesome things related to Vue.js ][49]
+[A curated list of awesome things related to Vue.js ][52]
 
 
 ---- 
 
 ## Awesome tools
 
-- Electron [http://electron.atom.io][50]  
+- Electron [http://electron.atom.io][53]  
 	Build cross platform desktop apps
-- electron-builder [https://github.com/electron-userland/electron-builder][51]
+- electron-builder [https://github.com/electron-userland/electron-builder][54]
 
 
 
-[1]:	https://babeljs.io/docs/learn-es2015/
-[2]:	http://es6.ruanyifeng.com
-[3]:	http://gajus.com/blog/2/the-definitive-guide-to-the-javascript-generators "The Definitive Guide to the JavaScript Generators"
-[4]:	https://davidwalsh.name/es6-generators "The Basics Of ES6 Generators"
-[5]:	http://www.2ality.com/2015/03/es6-generators.html "ES6 generators in depth"
-[6]:	http://standardjs.com "http://standardjs.com"
-[7]:	https://github.com/feross/standard/blob/master/docs/webstorm.md
-[8]:	https://github.com/thejameskyle/babel-handbook/blob/master/translations/zh-Hans/user-handbook.md
-[9]:	http://webpack.github.io
-[10]:	http://netflix.github.io/falcor/
-[11]:	https://facebook.github.io/react/
-[12]:	http://reactjs.cn
-[13]:	https://www.gitbook.com/book/hulufei/react-tutorial/details
-[14]:	http://purplebamboo.github.io/2015/09/15/reactjs_source_analyze_part_one/
-[15]:	http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html "Full-Stack Redux Tutorial "
-[16]:	https://segmentfault.com/a/1190000004660632
-[17]:	http://ant.design
-[18]:	http://ant-tool.github.io/quick-start.html
-[19]:	https://github.com/ant-design/antd-init
-[20]:	https://github.com/ant-design/antd-init
-[21]:	https://antv.alipay.com
-[22]:	https://g2.alipay.com
-[23]:	[http://motion.ant.design/]
-[24]:	http://react-component.github.io/badgeboard/
-[25]:	https://github.com/react-component
-[26]:	http://uxco.re
-[27]:	https://github.com/enaqx/awesome-react
-[28]:	https://github.com/reactjs/redux
-[29]:	http://redux.js.org/docs/introduction/index.html
-[30]:	https://github.com/paulkogel/redux-offline-docs
-[31]:	http://cn.redux.js.org
-[32]:	https://github.com/gaearon/react-redux
-[33]:	https://github.com/reactjs/react-router-redux
-[34]:	https://github.com/ekosz/redux-falcor
-[35]:	http://yelouafi.github.io/redux-saga/
-[36]:	https://github.com/yelouafi/redux-saga
-[37]:	https://egghead.io/courses/getting-started-with-redux
-[38]:	https://github.com/andrewngu/sound-redux
-[39]:	http://jlongster.com/A-Simple-Way-to-Route-with-Redux
-[40]:	https://www.youtube.com/watch?v=fZKaq623y38&list=PLQDnxXqV213JJFtDaG0aE9vqvp6Wm7nBg
-[41]:	https://github.com/xgrommx/awesome-redux
-[42]:	https://github.com/benjycui/bisheng
-[43]:	http://vuejs.org
-[44]:	http://vuejs.org.cn/ "中文"
-[45]:	http://vuejs.org.cn/guide/
-[46]:	https://github.com/airyland/vux
-[47]:	https://vux.li/#!/
-[48]:	https://vuxjs.gitbooks.io/vux/content/
-[49]:	https://github.com/vuejs/awesome-vue
-[50]:	http://electron.atom.io
-[51]:	https://github.com/electron-userland/electron-builder
+[1]:	https://github.com/airbnb/javascript
+[2]:	https://github.com/airbnb/javascript/tree/master/react
+[3]:	https://github.com/JasonBoy/javascript/tree/master/react
+[4]:	http://standardjs.com
+[5]:	https://github.com/feross/standard/blob/master/docs/webstorm.md
+[6]:	https://babeljs.io/docs/learn-es2015/
+[7]:	http://es6.ruanyifeng.com
+[8]:	http://gajus.com/blog/2/the-definitive-guide-to-the-javascript-generators "The Definitive Guide to the JavaScript Generators"
+[9]:	https://davidwalsh.name/es6-generators "The Basics Of ES6 Generators"
+[10]:	http://www.2ality.com/2015/03/es6-generators.html "ES6 generators in depth"
+[11]:	https://github.com/thejameskyle/babel-handbook/blob/master/translations/zh-Hans/user-handbook.md
+[12]:	http://webpack.github.io
+[13]:	http://netflix.github.io/falcor/
+[14]:	https://facebook.github.io/react/
+[15]:	http://reactjs.cn
+[16]:	https://www.gitbook.com/book/hulufei/react-tutorial/details
+[17]:	http://purplebamboo.github.io/2015/09/15/reactjs_source_analyze_part_one/
+[18]:	http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html "Full-Stack Redux Tutorial "
+[19]:	https://segmentfault.com/a/1190000004660632
+[20]:	http://ant.design
+[21]:	http://ant-tool.github.io/quick-start.html
+[22]:	https://github.com/ant-design/antd-init
+[23]:	https://github.com/ant-design/antd-init
+[24]:	https://antv.alipay.com
+[25]:	https://g2.alipay.com
+[26]:	[http://motion.ant.design/]
+[27]:	http://react-component.github.io/badgeboard/
+[28]:	https://github.com/react-component
+[29]:	http://uxco.re
+[30]:	https://github.com/enaqx/awesome-react
+[31]:	https://github.com/reactjs/redux
+[32]:	http://redux.js.org/docs/introduction/index.html
+[33]:	https://github.com/paulkogel/redux-offline-docs
+[34]:	http://cn.redux.js.org
+[35]:	https://github.com/gaearon/react-redux
+[36]:	https://github.com/reactjs/react-router-redux
+[37]:	https://github.com/ekosz/redux-falcor
+[38]:	http://yelouafi.github.io/redux-saga/
+[39]:	https://github.com/yelouafi/redux-saga
+[40]:	https://egghead.io/courses/getting-started-with-redux
+[41]:	https://github.com/andrewngu/sound-redux
+[42]:	http://jlongster.com/A-Simple-Way-to-Route-with-Redux
+[43]:	https://www.youtube.com/watch?v=fZKaq623y38&list=PLQDnxXqV213JJFtDaG0aE9vqvp6Wm7nBg
+[44]:	https://github.com/xgrommx/awesome-redux
+[45]:	https://github.com/benjycui/bisheng
+[46]:	http://vuejs.org
+[47]:	http://vuejs.org.cn/ "中文"
+[48]:	http://vuejs.org.cn/guide/
+[49]:	https://github.com/airyland/vux
+[50]:	https://vux.li/#!/
+[51]:	https://vuxjs.gitbooks.io/vux/content/
+[52]:	https://github.com/vuejs/awesome-vue
+[53]:	http://electron.atom.io
+[54]:	https://github.com/electron-userland/electron-builder
