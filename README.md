@@ -124,6 +124,8 @@ WeUI components
 - Electron [http://electron.atom.io][52]  
 	Build cross platform desktop apps
 - electron-builder [https://github.com/electron-userland/electron-builder][53]
+- JSON Server [https://github.com/typicode/json-server][54]
+- [hotel][55] - Local domains for everyone and more!
 
 
 
@@ -180,3 +182,5 @@ WeUI components
 [51]:	https://github.com/vuejs/awesome-vue
 [52]:	http://electron.atom.io
 [53]:	https://github.com/electron-userland/electron-builder
+[54]:	https://github.com/typicode/json-server
+[55]:	https://github.com/typicode/hotel
